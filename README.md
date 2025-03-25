@@ -38,18 +38,11 @@ The **E-pantry** app offers:
 
 ---
 
-## 🛠️ Technology Stack
-- **Frontend**: React Native (Mobile App)
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
-- **Barcode Scanning**: ZXing (for barcode scanning integration)
-- **Cloud Services**: Firebase (Authentication, Push Notifications)
-- **Version Control**: GitHub
+## 🎨 Figma Links
+
+- **Pages Design**: [View the Pages Design on Figma](https://www.figma.com/file/kNO77DfUmbOUwnETjRKNIz/E-pantry(waref)?type=design&node-id=0%3A1&t=0PRXxfymFQPjGMs2-1)
+- **Flow Design**: [View the Flow Design on Figma](https://www.figma.com/proto/kNO77DfUmbOUwnETjRKNIz/E-pantry(waref)?type=design&node-id=446-309&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4)
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/E-pantry.git
+For more information, please check the detailed report in the repository.
