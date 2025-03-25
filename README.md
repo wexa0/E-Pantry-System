@@ -12,12 +12,12 @@
 ---
 
 ## 🎯 Features
-- **Pantry Inventory Management** 🛒: Easily add, remove, and manage pantry items.
-- **Barcode Scanning** 🔍: Scan product barcodes to add items quickly and accurately.
-- **Low Stock Alerts** 📲: Get notifications when an item is running low or has expired.
-- **Grocery List Creation** 📝: Create, save, and share grocery lists with family members.
-- **Search & Categorization** 📂: Find pantry items by category or search by name for quick access.
-- **Multi-device Sync** 🌐: Sync pantry data across multiple devices for easy access and management.
+- **Pantry Inventory Management** : Easily add, remove, and manage pantry items.
+- **Barcode Scanning** : Scan product barcodes to add items quickly and accurately.
+- **Low Stock Alerts** : Get notifications when an item is running low or has expired.
+- **Grocery List Creation** : Create, save, and share grocery lists with family members.
+- **Search & Categorization** : Find pantry items by category or search by name for quick access.
+- **Multi-device Sync** : Sync pantry data across multiple devices for easy access and management.
 
 ---
 
