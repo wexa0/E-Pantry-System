@@ -45,4 +45,4 @@ The **E-pantry** app offers:
 
 ---
 
-For more information, please check the detailed report in the repository.
+For more information, please check the detailed report in the repository!.
