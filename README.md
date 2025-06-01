@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/541576c7-8f07-4506-8de4-678536069e74" alt="E-pantry Logo" width="400" height="auto">
-</div>
+
+![Uploading تصميم بدون عنوان (14).png…]()
 
 ---
 
